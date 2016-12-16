@@ -1,28 +1,28 @@
 //{{NO_DEPENDENCIES}}
-// Microsoft Developer Studio generated include file.
+// Microsoft Visual C++ generated include file.
 // Used by GridPrimitive2.rc
 //
-
-
 #define IDS_LIBDESCRIPTION              1
 #define IDS_CATEGORY                    2
 #define IDS_CLASS_NAME                  3
 #define IDS_PARAMS                      4
 #define IDS_SPIN                        5
-
-
-
-
-
-
-
 #define IDD_PANEL                       101
-
 #define IDC_CLOSEBUTTON                 1000
 #define IDC_DOSTUFF                     1000
 #define IDC_COLOR                       1456
 #define IDC_EDIT                        1490
+#define IDC_EDIT2                       1491
+#define IDC_EDIT3                       1492
+#define IDC_EDIT4                       1493
+#define IDC_EDIT5                       1494
 #define IDC_SPIN                        1496
+#define IDC_SPIN2                       1497
+#define IDC_SPIN3                       1498
+#define IDC_SPIN4                       1499
+#define IDC_SPIN5                       1500
+#define IDC_EDIT6                       1501
+#define IDC_SPIN6                       1502
 
 // Next default values for new objects
 // 
