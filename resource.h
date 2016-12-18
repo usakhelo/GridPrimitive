@@ -12,17 +12,20 @@
 #define IDC_DOSTUFF                     1000
 #define IDC_COLOR                       1456
 #define IDC_EDIT                        1490
-#define IDC_EDIT2                       1491
-#define IDC_EDIT3                       1492
-#define IDC_EDIT4                       1493
-#define IDC_EDIT5                       1494
+#define IDC_H_EDIT                      1490
+#define IDC_W_EDIT                      1491
+#define IDC_L_EDIT                      1492
+#define IDC_HP_EDIT                     1493
+#define IDC_VP_EDIT                     1494
 #define IDC_SPIN                        1496
-#define IDC_SPIN2                       1497
-#define IDC_SPIN3                       1498
-#define IDC_SPIN4                       1499
-#define IDC_SPIN5                       1500
-#define IDC_EDIT6                       1501
-#define IDC_SPIN6                       1502
+#define IDC_H_SPIN                      1496
+#define IDC_W_SPIN                      1497
+#define IDC_D_SPIN                      1498
+#define IDC_L_SPIN                      1498
+#define IDC_HP_SPIN                     1499
+#define IDC_VP_SPIN                     1500
+#define IDC_TH_EDIT                     1501
+#define IDC_TH_SPIN                     1502
 
 // Next default values for new objects
 // 
